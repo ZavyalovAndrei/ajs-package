@@ -1,0 +1,15 @@
+{
+  "name": "ajs-package",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zavyalovandrei/ajs": "^1.0.1"
+  }
+}
